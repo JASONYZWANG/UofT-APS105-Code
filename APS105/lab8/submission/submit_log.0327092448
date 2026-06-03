@@ -1,0 +1,82 @@
+Submitting assignment 8 from p126.ecf.utoronto.ca
+Checking for the expected files in the current directory
+lab8part1.c lab8part2.c lab8part3.c
+Attempting to build your code.  Make output follows:
+==================================================================
+gcc lab8part1.c -I/u/course/aps105i/public/8/common -o lab8part1 -lm
+gcc main.c lab8part2.c liblab8part2.a -o lab8part2 -lm
+------------------------------------------------------------------
+The build appears to have been successful
+
+Running exercise on the produced executable 'lab8part1'
+############### Testcase 1 Results ##########################
+Functionality: PASS - Output matches solution
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 2 Results ##########################
+Functionality: PASS - Output matches solution
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 3 Results ##########################
+Functionality: PASS - Output matches solution
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 4 Results ##########################
+Functionality: PASS - Output matches solution
+Valgrind:      PASS - No memory leaks detected
+################# Summary for 4 test(s) #####################
+Functionality: PASS: All tests passed
+Valgrind:      PASS: No memory leaks detected
+
+Running exercise on the produced executable 'lab8part2'
+############### Testcase 7 Results ##########################
+Functionality: PASS - Output matches solution
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 8 Results ##########################
+Functionality: PASS - Output matches solution
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 9 Results ##########################
+Functionality: FAIL - Output did not match solution
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 10 Results ##########################
+Functionality: PASS - Output matches solution
+Valgrind:      PASS - No memory leaks detected
+################# Summary for 4 test(s) #####################
+Functionality: FAIL: 1 test(s) failed!
+Valgrind:      PASS: No memory leaks detected
+
+lab8part2 failed exercise
+run /u/course/aps105i/public/exercise for a full report
+This assignment did not pass exercise, do want to submit anyways? (y/n): y
+
+Submitting files
+
+Verifying submission
+submitaps105s -l 8
+total 156
+-rw-r----- 1 submit aps105sg 10380 Mar 24 20:37 lab8part1.c
+-rw-r----- 1 submit aps105sg 10380 Mar 27 09:25 lab8part1.c.1774617906
+-rw-r----- 1 submit aps105sg 17749 Mar 24 20:37 lab8part2.c
+-rw-r----- 1 submit aps105sg 17749 Mar 27 09:25 lab8part2.c.1774617906
+-rw-r----- 1 submit aps105sg 10916 Mar 24 20:37 lab8part3.c
+-rw-r----- 1 submit aps105sg 10916 Mar 27 09:25 lab8part3.c.1774617906
+-rw-r----- 1 submit aps105sg  2664 Mar 14 21:06 submit_log.0314210612
+-rw-r----- 1 submit aps105sg  2841 Mar 15 20:46 submit_log.0315204556
+-rw-r----- 1 submit aps105sg  2354 Mar 15 20:49 submit_log.0315204831
+-rw-r----- 1 submit aps105sg  2975 Mar 15 20:59 submit_log.0315205856
+-rw-r----- 1 submit aps105sg  3045 Mar 15 21:00 submit_log.0315210039
+-rw-r----- 1 submit aps105sg  3115 Mar 15 21:02 submit_log.0315210238
+-rw-r----- 1 submit aps105sg   403 Mar 15 21:04 submit_log.0315210412
+-rw-r----- 1 submit aps105sg  3255 Mar 15 21:06 submit_log.0315210626
+-rw-r----- 1 submit aps105sg  3325 Mar 15 21:12 submit_log.0315211157
+-rw-r----- 1 submit aps105sg  3395 Mar 15 21:16 submit_log.0315211628
+-rw-r----- 1 submit aps105sg  3358 Mar 15 21:33 submit_log.0315213300
+-rw-r----- 1 submit aps105sg  3428 Mar 15 21:34 submit_log.0315213431
+-rw-r----- 1 submit aps105sg  2348 Mar 15 21:48 submit_log.0315214848
+-rw-r----- 1 submit aps105sg  3568 Mar 15 21:49 submit_log.0315214926
+-rw-r----- 1 submit aps105sg  2348 Mar 24 20:32 submit_log.0324202530
+-rw-r----- 1 submit aps105sg  2336 Mar 24 20:33 submit_log.0324203301
+-rw-r----- 1 submit aps105sg  3767 Mar 24 20:37 submit_log.0324203741
+Script Error: timestamp does not match submit time for lab8part1.c
+submit time:      Mar 27 09:25
+submit timestamp: Mar 24 20:37
+
+Please retry submission.
+If problems persist contact the head TA

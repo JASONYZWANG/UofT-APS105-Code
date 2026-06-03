@@ -1,0 +1,52 @@
+Submitting assignment 3 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+lab3part1.c lab3part2.c lab3part3.c
+Attempting to build your code.  Make output follows:
+==================================================================
+gcc lab3part1.c -o lab3part1
+gcc lab3part2.c -o lab3part2 -lm
+gcc lab3part3.c -o lab3part3 
+------------------------------------------------------------------
+The build appears to have been successful
+
+Running exercise on the produced executable 'lab3part1'
+############### Testcase 1 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 2 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 2 test(s) #####################
+Functionality: PASS: All tests passed
+
+Running exercise on the produced executable 'lab3part2'
+############### Testcase 4 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 5 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 6 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 3 test(s) #####################
+Functionality: PASS: All tests passed
+
+Running exercise on the produced executable 'lab3part3'
+############### Testcase 8 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 9 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 2 test(s) #####################
+Functionality: PASS: All tests passed
+
+The required files passed exercise
+
+Submitting files
+
+Verifying submission
+submitaps105s -l 3
+total 12
+-rw-r----- 1 submit aps105sg 992 Jan 22 23:58 lab3part1.c
+-rw-r----- 1 submit aps105sg 831 Jan 22 23:58 lab3part2.c
+-rw-r----- 1 submit aps105sg 784 Jan 22 23:58 lab3part3.c
+
+All filesizes match. All timestamps match submission time.
+
+Submission was successful
+

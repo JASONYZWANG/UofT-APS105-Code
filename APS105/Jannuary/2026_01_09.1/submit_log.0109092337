@@ -1,0 +1,37 @@
+Submitting assignment 0 from p163.ecf.utoronto.ca
+Checking for the expected files in the current directory
+hello.c
+Attempting to build your code.  Make output follows:
+==================================================================
+gcc hello.c -o hello
+------------------------------------------------------------------
+The build appears to have been successful
+
+Running exercise on the produced executable 'hello'
+############### Testcase 1 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 1 test(s) #####################
+Functionality: PASS: All tests passed
+
+The required files passed exercise
+
+Submitting files
+
+Verifying submission
+submitaps105s -l 0
+total 52
+-rw-r----- 1 submit aps105sg 18104 Jan  9 09:22 hello.1767968528
+-rw-r----- 1 submit aps105sg    76 Jan  5 19:23 hello.c
+-rw-r----- 1 submit aps105sg    76 Jan  9 09:23 hello.c.1767968618
+-rw-r----- 1 submit aps105sg   371 Jan  5 19:21 submit_log.0105192110
+-rw-r----- 1 submit aps105sg   941 Jan  5 19:23 submit_log.0105192348
+-rw-r----- 1 submit aps105sg   669 Jan  9 09:21 submit_log.0109092126.1767968513
+-rw-r----- 1 submit aps105sg   369 Jan  9 09:21 submit_log.0109092157.1767968517
+-rw-r----- 1 submit aps105sg  1249 Jan  9 09:22 submit_log.0109092206.1767968528
+-rw-r----- 1 submit aps105sg   369 Jan  9 09:22 submit_log.0109092239.1767968559
+Script Error: timestamp does not match submit time for hello.c
+submit time:      Jan  9 09:23
+submit timestamp: Jan  5 19:23
+
+Please retry submission.
+If problems persist contact the head TA

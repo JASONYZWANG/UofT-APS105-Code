@@ -1,0 +1,44 @@
+Submitting assignment 4 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+lab4part1.c lab4part2.c
+Attempting to build your code.  Make output follows:
+==================================================================
+cc     lab4part1.c   -o lab4part1
+cc     lab4part2.c   -o lab4part2
+------------------------------------------------------------------
+The build appears to have been successful
+
+Running exercise on the produced executable 'lab4part1'
+############### Testcase 1 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 2 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 3 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 3 test(s) #####################
+Functionality: PASS: All tests passed
+
+Running exercise on the produced executable 'lab4part2'
+############### Testcase 6 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 7 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 8 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 3 test(s) #####################
+Functionality: PASS: All tests passed
+
+The required files passed exercise
+
+Submitting files
+
+Verifying submission
+submitaps105s -l 4
+total 8
+-rw-r----- 1 submit aps105sg 824 Jan 27 23:46 lab4part1.c
+-rw-r----- 1 submit aps105sg 588 Jan 27 23:46 lab4part2.c
+
+All filesizes match. All timestamps match submission time.
+
+Submission was successful
+
