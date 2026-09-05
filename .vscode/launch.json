@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "/u/c/wang6213/APS105/April/2026_04_15",
-      "program": "/u/c/wang6213/APS105/April/2026_04_15/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "c:/Users/yizhu/OneDrive/University of Toronto/My Projects/UofT-APS105-Code/March/2026_03_03",
+      "program": "c:/Users/yizhu/OneDrive/University of Toronto/My Projects/UofT-APS105-Code/March/2026_03_03/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
