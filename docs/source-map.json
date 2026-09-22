@@ -1,0 +1,92 @@
+[
+  {
+    "published_path": "labs/lab01/part1.c",
+    "original_path": "lab1/submission/lab1part1.c",
+    "original_sha256": "8f4c46dd6632f0138d5216dd073b36ddbefcbde5bfcc3a49a6b24e0147027f79"
+  },
+  {
+    "published_path": "labs/lab01/part2.c",
+    "original_path": "lab1/submission/lab1part2.c",
+    "original_sha256": "76b12d35b9dfa127e7d7140602f99eed5437357d6f8d239bfb33afe75d1ceb8b"
+  },
+  {
+    "published_path": "labs/lab01/part3.c",
+    "original_path": "lab1/submission/lab1part3.c",
+    "original_sha256": "e38456dcf9633ef2644525a0b6b44a5f86685dc1b02a36295d87ccafc39ba3d2"
+  },
+  {
+    "published_path": "labs/lab02/part1.c",
+    "original_path": "lab2/submission/lab2part1.c",
+    "original_sha256": "7efbf544333cc0f9e9b52a378a0deccac5b4eccae1a90a5c32d9a2ee4308d9ac"
+  },
+  {
+    "published_path": "labs/lab02/part2.c",
+    "original_path": "lab2/submission/lab2part2.c",
+    "original_sha256": "24b5d7defbdbd6d5954ddda3d0d9ed95e1fd888c5310c6b4bf45919e0dc10bc2"
+  },
+  {
+    "published_path": "labs/lab02/part3.c",
+    "original_path": "lab2/submission/lab2part3.c",
+    "original_sha256": "2e3c7ac64615eb10c2b24221152118aa5024801b533ab884f207512a9140e4f6"
+  },
+  {
+    "published_path": "labs/lab03/part1.c",
+    "original_path": "lab3/submission/lab3part1.c",
+    "original_sha256": "ff7104c9e310fabd0437d315546e7170de7cd011d65ee6874e0d4b3971e76b11"
+  },
+  {
+    "published_path": "labs/lab03/part2.c",
+    "original_path": "lab3/submission/lab3part2.c",
+    "original_sha256": "6ecfc79ba3840738af0d50652a94e4b56b671da8cf06f81911e5d8e9e83676f8"
+  },
+  {
+    "published_path": "labs/lab03/part3.c",
+    "original_path": "lab3/submission/lab3part3.c",
+    "original_sha256": "288d1a0bc1cf0aea76968f8ebbf6eb1572cda7d2606bcbeeab77edbdcff32cca"
+  },
+  {
+    "published_path": "labs/lab04/part1.c",
+    "original_path": "lab4/submission/lab4part1.c",
+    "original_sha256": "533902ec5bdc3872270a3ee01cd22a41f907a190135e148fd80695d6c0602cc5"
+  },
+  {
+    "published_path": "labs/lab04/part2.c",
+    "original_path": "lab4/submission/lab4part2.c",
+    "original_sha256": "9777761bd814578834355bc6403cfa55ed9488bb82eefc103b01d763694ef4a6"
+  },
+  {
+    "published_path": "labs/lab06/part1.c",
+    "original_path": "lab6/submission/lab6part1.c",
+    "original_sha256": "1ce0706ad346937b85bc5f17cae0493aa928a4449cae7549cffa4f60e9e40569"
+  },
+  {
+    "published_path": "labs/lab06/part2.c",
+    "original_path": "lab6/submission/lab6part2.c",
+    "original_sha256": "2202cc6eb3b4330c1118a2ea34bb21f717df04bdb4202605dbc65447b1641d5e"
+  },
+  {
+    "published_path": "labs/lab05/automaton.c",
+    "original_path": "lab5/lab5.c",
+    "original_sha256": "9b74bec2a4b6989397251df646bdf4533dfaff0669355965c5397f304131d1ef"
+  },
+  {
+    "published_path": "labs/lab07/reversi_rules.c",
+    "original_path": "lab7/reversi.c",
+    "original_sha256": "36dfe7b28d5e0ab20f15a3f77b2808f6bc67eecf03f6ce953e4ef9b64fc2fb9a"
+  },
+  {
+    "published_path": "labs/lab08/reversi_greedy.c",
+    "original_path": "lab8/submission/lab8part1.c",
+    "original_sha256": "789f887ee9df322b1355d6ef238cef0e9bcc31cafaacdad06a4cb26aafbc0e6b"
+  },
+  {
+    "published_path": "labs/lab08/reversi_heuristic.c",
+    "original_path": "lab8/submission/lab8part3.c",
+    "original_sha256": "ed8f5af52cc440885889230c758b98cbf01145305fc8e4fe3ac0c83ac6a00e2e"
+  },
+  {
+    "published_path": "labs/lab09/patient_queue.c",
+    "original_path": "lab9/lab9.c",
+    "original_sha256": "46642d2494d418ff00058f1703ebea0f64ffe9a6cb045e82517ad9c038b7337b"
+  }
+]

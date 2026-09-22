@@ -1,0 +1,10 @@
+/_local_archive/
+/build/
+/dist/
+__pycache__/
+*.py[cod]
+*.o
+*.exe
+*.a
+.vscode/
+.DS_Store

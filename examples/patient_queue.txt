@@ -1,0 +1,8 @@
+A 101 Alex 3
+A 102 Sam 5
+A 103 Taylor 5
+D
+T
+R 101
+D
+Q
